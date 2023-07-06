@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julienbrs)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonrin0213)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -35,7 +35,7 @@
 
 Test the dApp here: [Blockdonate Website](https://blockdonate.vercel.app/)
 
-Check the smart contract here: [Backend repository](https://github.com/julienbrs/hardhat-blockdonate)
+Check the smart contract here: [Backend repository](https://github.com/jonrin0213/hardhat-blockdonate)
 
 </br>
 
@@ -63,13 +63,6 @@ Please note that this project is for educational purposes only and not meant for
 
 <!-- CONTACT -->
 
-## Contact
-
-Bourseau Julien - _2nd year student at Ensimag, 2022_ - julien.bourseau@gmail.com
-
-Project Link: [https://github.com/julienbrs/hardhat-blockdonate](https://github.com/julienbrs/hardhat-blockdonate)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/julien-bourseau-ba2239228
